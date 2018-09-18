@@ -4,7 +4,7 @@ Data:
 
 19 house features plus the price and the id columns, along with 21613 observations.
 
-id              a notation for a house													Numeric
+id              \t a notation for a house													Numeric
 date		        Date house was sold													String
 price		        Price is prediction target												Numeric
 bedrooms	      Number of Bedrooms/House												Numeric
