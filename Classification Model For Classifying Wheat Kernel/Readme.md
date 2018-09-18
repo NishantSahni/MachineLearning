@@ -1,3 +1,7 @@
+# Classification Model For Determining Wheat Kernel
+
+Data:
+
 210 instances. 7 attributes. 3 classes.
 
 To construct the data, seven geometric parameters of wheat kernels were measured: 
@@ -11,4 +15,4 @@ To construct the data, seven geometric parameters of wheat kernels were measured
 All of these parameters were real-valued continuous.
 
 
-NOTE: This data set requires preprocessing before it can be used. Alignment is inconsistent between attributes.
+NOTE: This data set required preprocessing before it was used.
