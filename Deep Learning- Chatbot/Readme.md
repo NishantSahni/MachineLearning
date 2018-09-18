@@ -1,5 +1,5 @@
 # ANA: An Interactive SmartBot
-The aim of this project is to develop a bot which will successfully answer questions asked to ‘it’ and engage in light conversation relating to that topic. Using a corpus with question and answers, we developed a neural network using Keras as our model for training our bot. This will allow it to successfully answer questions and engage in conversation with the user.
+The aim of this project is to develop a bot which will successfully answer questions asked to ‘it’ and engage in light conversation relating to that topic. Additionally, the bot will be able to provide feedback on the sentiment of the chat. Using a corpus with question and answers, a Recurrent Neural Network (RNN) was developed using Keras with a TensorFlow backend. For sentiment analysis, another RNN was trained using a dataset containing IMDB movie reviews.
 
 All the python code is written in Python 3.6 and will require the following dependencies to run: NLTK, Gensim, Numpy, Pickle, TensorFlow, 
 Keras and ScikitLearn.
