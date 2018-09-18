@@ -13,6 +13,3 @@ To construct the data, seven geometric parameters of wheat kernels were measured
 6. asymmetry coefficient 
 7. length of kernel groove. 
 All of these parameters were real-valued continuous.
-
-
-NOTE: This data set required preprocessing before it was used.
