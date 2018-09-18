@@ -1,3 +1,7 @@
+# Regression Model For Predicting Housing Prices
+
+Data:
+
 19 house features plus the price and the id columns, along with 21613 observations.
 
 id		a notation for a house													Numeric
